@@ -215,6 +215,10 @@ b {
   font-weight: 400;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 em,
 i {
   font-style: italic;
