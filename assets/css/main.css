@@ -2510,6 +2510,10 @@ input[type='radio'] + label:before {
   width: 300px;
 }
 
+#three img {
+  height: 9rem;
+}
+
 /* List */
 
 ol {
